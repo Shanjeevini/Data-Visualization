@@ -1,0 +1,17 @@
+,psa,age,y
+0,4.1,78,cancer
+1,3.4,70,cancer
+2,2.9,62,cancer
+3,2.8,66,cancer
+4,2.7,70,cancer
+5,2.1,65,cancer
+6,1.6,58,cancer
+7,2.5,68,healthy
+8,2,64,healthy
+9,1.7,62,healthy
+10,1.4,70,healthy
+11,1.2,72,healthy
+12,0.9,67,healthy
+13,0.8,59,healthy
+14,test,Nan,NaN
+15,2.6,70,cancer
